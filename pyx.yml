@@ -1,5 +1,5 @@
 version: v1
 type: manifest
 workload:
-  type: compose
-  file: /path/to/docker-compose.yml
+  type: quadlet
+  file: /quadlet
