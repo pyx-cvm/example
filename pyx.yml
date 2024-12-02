@@ -2,4 +2,4 @@ version: v1
 type: manifest
 workload:
   type: quadlet
-  file: /quadlet
+  path: /quadlet
