@@ -1,0 +1,5 @@
+[Container]
+Image=docker.io/hello-world:latest
+
+[Install]
+WantedBy=default.target
