@@ -1,9 +1,0 @@
-[Container]
-Image=docker.io/hello-world:latest
-
-[Service]
-StandardError=tty
-StandardOutput=tty
-
-[Install]
-WantedBy=default.target
